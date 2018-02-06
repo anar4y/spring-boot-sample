@@ -13,7 +13,7 @@ public class City {
 
     @Override
     public String toString() {
-        return "City [id=" + id + ", name=" + name + "] + feature 2";
+        return "City [id=" + id + ", name=" + name + "] + feature 1 + feature 2";
     }
 
 }
